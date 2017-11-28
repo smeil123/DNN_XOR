@@ -1,0 +1,5 @@
+y --> 0 correct --> 0 ==> correct!!
+y --> 1 correct --> 1 ==> correct!!
+y --> 1 correct --> 1 ==> correct!!
+y --> 0 correct --> 0 ==> correct!!
+error # -> 0
